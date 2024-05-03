@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "267613378001",
+    "project_id": "evesafe-53dce",
+    "storage_bucket": "evesafe-53dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267613378001:android:02fd23c4411f348ffcfcf0",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267613378001-g10ojsa1u7pf86ljl53m3o5st5llq0q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDFXtrcx4sl8CWd8CM3Qv1jeItVwRJihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267613378001-g10ojsa1u7pf86ljl53m3o5st5llq0q1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267613378001-h9dloju9sdfe6qr6da539qv0jv3lkg50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.womenSafetyApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267613378001:android:a0902b8a7fb3449dfcfcf0",
+        "android_client_info": {
+          "package_name": "com.yadav.ayush.evesafe.womensafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267613378001-g10ojsa1u7pf86ljl53m3o5st5llq0q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDFXtrcx4sl8CWd8CM3Qv1jeItVwRJihc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267613378001-g10ojsa1u7pf86ljl53m3o5st5llq0q1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267613378001-h9dloju9sdfe6qr6da539qv0jv3lkg50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.womenSafetyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
