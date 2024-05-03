@@ -1,7 +1,7 @@
+import 'package:EveSafe/chat_module/singleMessage.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:womensafety/chat_module/singleMessage.dart';
 
 import '../utils/constants.dart';
 import 'message_text_field.dart';
