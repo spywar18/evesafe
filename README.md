@@ -1,18 +1,14 @@
-# womensafety
+# SafeHer: Women's Safety Application
 
-A Women Safety App
+**Empowering Women with Real-Time Protection and Community Collaboration**
 
-Built at Sprinthacks
+SafeHer is an innovative safety application designed for women, utilizing cutting-edge technology to provide real-time protection and community-driven safety enhancements. Our features are crafted to operate seamlessly both online and offline, ensuring that every user feels safe and supported at all times.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Automatic Threat Detection:** Leverages advanced voice and fall detection technology to identify potential threats automatically. Works offline to ensure protection is always on.
+- **Instant Alerts:** With just one click, the app sends alerts to emergency contacts, nearby police, and other SafeHer users, ensuring rapid response.
+- **Video Evidence Capture:** During a threat, the app automatically records a 1-minute video, sending it to emergency contacts and law enforcement to aid in immediate and post-incident response.
+- **Community-Driven Safety:** Users can report and share information about unsafe areas. These reports help to update and enhance route safety for all users.
+- **Map and Emergency Services Integration:** Features real-time mapping and quick access to emergency services, improving navigational aids and crisis response effectiveness.
+- **Language-Independent Voice Detection:** Supports threat detection in 22 major Indian languages, making the app accessible and inclusive for a diverse user base.
