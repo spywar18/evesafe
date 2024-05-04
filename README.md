@@ -1,8 +1,8 @@
-# SafeHer: Women's Safety Application
+# EveSafe: Women's Safety Application
 
 **Empowering Women with Real-Time Protection and Community Collaboration**
 
-SafeHer is an innovative safety application designed for women, utilizing cutting-edge technology to provide real-time protection and community-driven safety enhancements. Our features are crafted to operate seamlessly both online and offline, ensuring that every user feels safe and supported at all times.
+EveSafe is an innovative safety application designed for women, utilizing cutting-edge technology to provide real-time protection and community-driven safety enhancements. Our features are crafted to operate seamlessly both online and offline, ensuring that every user feels safe and supported at all times.
 
 ## Key Features
 
